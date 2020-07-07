@@ -1,0 +1,2 @@
+# ArcoLinux Kvantum theme arc
+
